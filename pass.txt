@@ -1,0 +1,3 @@
+password for database :
+user : pokemon
+Pass : PokemonSAE1323
